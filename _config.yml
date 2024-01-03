@@ -20,7 +20,7 @@ plugins:
     - jekyll-redirect-from
 authors:
     ken:
-      name:           Ken
+      name:           Ken Nguyen
       site:           https://citynewshub.github.io/lib/index.html
       avatar:         /assets/images/avatar1.jpg
       bio:            "Hi, I am Ken, the Blog Editor of \"City Hub\", the the site you're currently previewing. I hope you like it!"
@@ -28,7 +28,7 @@ authors:
       twitter:        https://twitter.com/citylodgeorg
 
     Hanna:
-      name:           Hanna
+      name:           Hanna Tran
       site:           https://citynewshub.github.io/lib/index.html
       avatar:         /assets/images/avatar2.jpg
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
@@ -43,7 +43,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: Ken
+      author: ken
       avatar: /assets/images/avatar1.jpg
 
   # all pages
