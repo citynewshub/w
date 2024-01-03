@@ -20,7 +20,7 @@ plugins:
     - jekyll-redirect-from
 authors:
     ken:
-      name:           Ken Nguyen
+      name:           Ken
       site:           https://citynewshub.github.io/lib/index.html
       avatar:         /assets/images/avatar1.jpg
       bio:            "Hi, I am Ken, the Blog Editor of \"City Hub\", the the site you're currently previewing. I hope you like it!"
