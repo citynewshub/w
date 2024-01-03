@@ -11,7 +11,7 @@ image: https://qph.cf2.poecdn.net/main-sdxl_83efa6978a66b253913e0fb320f53f499558
 ### Securing Your Account
 The first step to enjoying Roblox is **building a new secure account**. When choosing a username, select something **positive and appropriate** that represents you well while avoiding sensitive topics or inappropriate language. Be sure to use a **strong password** and enable two-factor authentication for extra protection of your account details. Two-factor authentication adds an extra layer of security by requiring you to confirm login attempts with a one-time code sent to your email or mobile device.
 
-![](https://qph.cf2.poecdn.net/main-sdxl_83efa6978a66b253913e0fb320f53f4995589feb8cba39510c2980d8fe4feb34.png)
+![][def]
 ### Creating Your Avatar
 Next, you'll want to design your avatar and customize its look. Browse through the wide selection of available clothing, accessories, animations and more to create a unique virtual representation of yourself. Remember that your avatar is a reflection of who you are, so focus on positive self-expression rather than anything inappropriate. You can always change your avatar's appearance later as your creativity and Roblox experience grows.
 ## 2. Earning Your First Robux
@@ -54,3 +54,6 @@ There's always more to explore, create and accomplish on Roblox. Consider bondin
 Pay forward lessons you've learned by gently advising newer or less experienced users. Answer questions about navigating the platform, build rapport through positive conversation, and point them toward engaging content that fosters learning and creativity. Nurturing the next generation expands Roblox's positive impact.
 ### Giving Back to the Developer Community
 For highly skilled builders, there are opportunities to contribute back through volunteer design work, helpful tutorials, participating in build challenges or crafting original games, simulations and interactive worlds. Pursue your talents to aid continued platform growth and bring joy to all ages for years to come.
+
+
+[def]: https://qph.cf2.poecdn.net/main-sdxl_83efa6978a66b253913e0fb320f53f4995589feb8cba39510c2980d8fe4feb34.png
