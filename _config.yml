@@ -19,16 +19,16 @@ plugins:
     - jekyll-seo-tag
     - jekyll-redirect-from
 authors:
-    sean:
-      name:           Sean
+    ken:
+      name:           Ken
       site:           https://citynewshub.github.io/lib/index.html
       avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sean, the Blog Editor of PT-Url, the the site you're currently previewing. I hope you like it!"
+      bio:            "Hi, I am Ken, the Blog Editor of \"City Hub\", the the site you're currently previewing. I hope you like it!"
       email:          citylodgeorg@gmail.com
       twitter:        https://twitter.com/citylodgeorg
 
-    jane:
-      name:           Jane
+    Hanna:
+      name:           Hanna
       site:           https://citynewshub.github.io/lib/index.html
       avatar:         /assets/images/avatar2.jpg
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
@@ -43,7 +43,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sean
+      author: Ken
       avatar: /assets/images/avatar1.jpg
 
   # all pages
