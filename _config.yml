@@ -4,7 +4,7 @@ description: 'Centre Gateway to Diverse Perspectives on News and Events'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 url: "https://demo.55.io.vn" # the base hostname & protocol for your site, e.g. https://example.com
-baseurl: '/'
+# baseurl: '/'
 disqus: 'citylodgeorg'
 email: 'citylodgeorg@gmail.com'
 
