@@ -22,7 +22,7 @@ authors:
     ken:
       name:           Ken
       site:           https://citynewshub.github.io/lib/index.html
-      avatar:         /assets/images/avatar1.jpg
+      avatar:         https://demo.55.io.vn/assets/images/avatar1.jpg
       bio:            "Hi, I am Ken, the Blog Editor of \"City Hub\", the the site you're currently previewing. I hope you like it!"
       email:          citylodgeorg@gmail.com
       twitter:        https://twitter.com/citylodgeorg
@@ -30,7 +30,7 @@ authors:
     hana-tran:
       name:           Hanna Tran
       site:           https://citynewshub.github.io/lib/index.html
-      avatar:         /assets/images/avatar2.jpg
+      avatar:         https://demo.55.io.vn/assets/images/avatar2.jpg
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
       email:          citylodge.org@gmail.com
       twitter:        https://twitter.com/citylodgeorg
@@ -44,7 +44,7 @@ defaults:
     values:
       layout: post
       author: ken
-      avatar: /assets/images/avatar1.jpg
+      avatar: https://demo.55.io.vn/assets/images/avatar1.jpg
 
   # all pages
   - scope:
