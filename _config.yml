@@ -1,12 +1,12 @@
 # Site
-name: 'PT-Url'
-description: 'our Gateway to Diverse Perspectives on News and Events'
+name: 'City Hub Demo'
+description: 'Centre Gateway to Diverse Perspectives on News and Events'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-url: "https://pturl.github.io" # the base hostname & protocol for your site, e.g. https://example.com
-baseurl: '/lib'
-disqus: 'demowebsite'
-email: 'wowthemesnet@gmail.com'
+url: "https://demo.55.io.vn" # the base hostname & protocol for your site, e.g. https://example.com
+baseurl: '/'
+disqus: 'citylodgeorg'
+email: 'citylodgeorg@gmail.com'
 
 include: ["_pages"]
 #permalink: /:title/
@@ -21,19 +21,19 @@ plugins:
 authors:
     sean:
       name:           Sean
-      site:           https://pturl.github.io/lib/index.html
+      site:           https://citynewshub.github.io/lib/index.html
       avatar:         /assets/images/avatar1.jpg
       bio:            "Hi, I am Sean, the Blog Editor of PT-Url, the the site you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      email:          citylodgeorg@gmail.com
+      twitter:        https://twitter.com/citylodgeorg
 
     jane:
       name:           Jane
-      site:           https://pturl.github.io/lib/index.html
+      site:           https://citynewshub.github.io/lib/index.html
       avatar:         /assets/images/avatar2.jpg
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      email:          citylodge.org@gmail.com
+      twitter:        https://twitter.com/citylodgeorg
 
 # Defaults
 defaults:
