@@ -21,8 +21,7 @@ description: "Home"
         <div class="col-md-6">
             <div class="card border-0 mb-4 box-shadow">
                 <a href="{{site.baseurl}}{{latest_post.url}}">
-                    <div class="topfirstimage" style="background-image: url({% if latest_post.image contains " ://" %}{{
-                        latest_post.image }}{% else %} {{site.baseurl}}/{{ latest_post.image}}{% endif %}); height:
+                    <div class="topfirstimage" style="background-image: url({{ latest_post.image}}); height:
                         200px; background-size: cover; background-repeat: no-repeat;"></div>
                 </a>
                 <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
@@ -58,8 +57,7 @@ description: "Home"
                 {% if second_post.image %}
                 <div class="col-md-4">
                     <a href="{{site.baseurl}}{{second_post.url}}">
-                        <img class="w-100" src="{% if second_post.image contains " ://" %}{{ second_post.image }}{% else
-                            %}{{ second_post.image | absolute_url }}{% endif %}" alt="{{ second_post.title }}">
+                        <img class="w-100" src="{{ third_post.image }}" alt="{{ second_post.title }}">
                     </a>
                 </div>
                 {% endif %}
@@ -88,8 +86,7 @@ description: "Home"
                 {% if third_post.image %}
                 <div class="col-md-4">
                     <a href="{{site.baseurl}}{{third_post.url}}">
-                        <img class="w-100" src="{% if third_post.image contains " ://" %}{{ third_post.image }}{% else
-                            %}{{site.baseurl}}/{{ third_post.image }}{% endif %}" alt="{{ third_post.title }}">
+                        <img class="w-100" src="{{ third_post.image }}" alt="{{ third_post.title }}">
                     </a>
                 </div>
                 {% endif %}
