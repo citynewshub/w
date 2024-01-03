@@ -3,7 +3,7 @@ layout: post
 title: "Building a Roblox Account from the Ground Up: A Comprehensive Guide"
 date:   2023-12-31 07:23:07 +0000
 categories: ['Gaming','Roblox']
-excerpt_image: https://qph.cf2.poecdn.net/main-sdxl_83efa6978a66b253913e0fb320f53f4995589feb8cba39510c2980d8fe4feb34.png
+excerpt_image: "https://qph.cf2.poecdn.net/main-sdxl_83efa6978a66b253913e0fb320f53f4995589feb8cba39510c2980d8fe4feb34.png"
 image: https://qph.cf2.poecdn.net/main-sdxl_83efa6978a66b253913e0fb320f53f4995589feb8cba39510c2980d8fe4feb34.png
 ---
 
